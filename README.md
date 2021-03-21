@@ -22,3 +22,8 @@ Per la creazione lde Book ho invece sfruttato:
 E la relativa trasformazione usando l'esportazione: 
 
 * http://textadventures.co.uk/squiffy
+
+Per le AT (Avventure Testuali) userò invece:
+
+* Design: https://github.com/JasonLautzenheiser/trizbort
+* Runtime e Test: http://textadventures.co.uk/quest
