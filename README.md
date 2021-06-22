@@ -28,3 +28,4 @@ Per le AT (Avventure Testuali) userò invece:
 * Design: https://github.com/JasonLautzenheiser/trizbort
 * Design Web: https://trizbort.io/
 * Runtime e Test: http://textadventures.co.uk/quest
+* IDE Inform 7: https://borogove.app/
