@@ -29,3 +29,8 @@ Per le AT (Avventure Testuali) userò invece:
 * Design Web: https://trizbort.io/
 * Runtime e Test: http://textadventures.co.uk/quest
 * IDE Inform 7: https://borogove.app/
+
+Tutorial: 
+
+* https://web.archive.org/web/20210321060401/https://kastigliapc20.wordpress.com/2021/01/28/if-inform-7/
+* http://www.youdev.it/milleuna/_Il_forziere_sepolto/index.html
